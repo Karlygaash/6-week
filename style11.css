@@ -116,5 +116,11 @@
     .footer__bottom-side-term-check{
         flex-direction: column;
     }
+    
+
+    .footer .footer__container .footer__top-side .footer__main .footer__partners, .footer__help{
+        margin: 0
+    }
+
 
 }
