@@ -95,6 +95,9 @@
     .footer__main{
         display: flex;
     }
+    .footer .footer__container .footer__top-side .footer__main .footer__partners{
+        margin: 0
+    }
 
     .footer__bottom-side{
         flex-wrap: wrap;
@@ -113,14 +116,12 @@
     .footer__main{
         flex-direction: column;
     }
+    
     .footer__bottom-side-term-check{
         flex-direction: column;
     }
     
-
     .footer .footer__container .footer__top-side .footer__main .footer__partners, .footer__help{
         margin: 0
     }
-
-
 }
